@@ -1,0 +1,15 @@
+/Users/george/Projects/Leasing/FuncionPagoExcel/bin/Debug/net6.0/FuncionPagoExcel
+/Users/george/Projects/Leasing/FuncionPagoExcel/bin/Debug/net6.0/FuncionPagoExcel.deps.json
+/Users/george/Projects/Leasing/FuncionPagoExcel/bin/Debug/net6.0/FuncionPagoExcel.runtimeconfig.json
+/Users/george/Projects/Leasing/FuncionPagoExcel/bin/Debug/net6.0/FuncionPagoExcel.dll
+/Users/george/Projects/Leasing/FuncionPagoExcel/bin/Debug/net6.0/FuncionPagoExcel.pdb
+/Users/george/Projects/Leasing/FuncionPagoExcel/obj/Debug/net6.0/FuncionPagoExcel.csproj.AssemblyReference.cache
+/Users/george/Projects/Leasing/FuncionPagoExcel/obj/Debug/net6.0/FuncionPagoExcel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/george/Projects/Leasing/FuncionPagoExcel/obj/Debug/net6.0/FuncionPagoExcel.AssemblyInfoInputs.cache
+/Users/george/Projects/Leasing/FuncionPagoExcel/obj/Debug/net6.0/FuncionPagoExcel.AssemblyInfo.cs
+/Users/george/Projects/Leasing/FuncionPagoExcel/obj/Debug/net6.0/FuncionPagoExcel.csproj.CoreCompileInputs.cache
+/Users/george/Projects/Leasing/FuncionPagoExcel/obj/Debug/net6.0/FuncionPagoExcel.dll
+/Users/george/Projects/Leasing/FuncionPagoExcel/obj/Debug/net6.0/refint/FuncionPagoExcel.dll
+/Users/george/Projects/Leasing/FuncionPagoExcel/obj/Debug/net6.0/FuncionPagoExcel.pdb
+/Users/george/Projects/Leasing/FuncionPagoExcel/obj/Debug/net6.0/FuncionPagoExcel.genruntimeconfig.cache
+/Users/george/Projects/Leasing/FuncionPagoExcel/obj/Debug/net6.0/ref/FuncionPagoExcel.dll
